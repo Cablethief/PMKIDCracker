@@ -1,6 +1,8 @@
 # PMKIDCracker
 Rust CPU based PMKID cracker
 
+Not working yet xD
+
 # Usage
 
 ```
